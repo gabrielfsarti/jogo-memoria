@@ -29,10 +29,11 @@ Este é um jogo simples da memória, criado utilizando **HTML**, **CSS** e **Jav
 
 ## Estrutura do Projeto
 jogo-da-memoria/
-├── index.html         # Estrutura básica do jogo (HTML)
-├── style.css          # Estilos para as cartas e layout (CSS)
-├── script.js          # Lógica do jogo, incluindo embaralhamento e verificação de pares (JavaScript)
-├── README.md          # Este arquivo (Markdown)
+
+├── index.html         
+├── style.css          
+├── script.js          
+├── README.md          
 
 ## Integrantes
 
